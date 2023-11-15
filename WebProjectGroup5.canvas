@@ -1,11 +1,10 @@
 {
 	"nodes":[
+		{"id":"93065b12cfbda976","x":80,"y":-969,"width":400,"height":400,"type":"link","url":"https://aroma-coffee-business-template.webflow.io/store"},
 		{"id":"708778fe9df6a084","type":"text","text":"Fresh Food Website","x":300,"y":-880,"width":240,"height":50},
 		{"id":"239e44df73b8d3ec","type":"text","text":"Sản Phẩm Nội Địa","x":1160,"y":-830,"width":250,"height":50},
 		{"id":"180f243fbb79159d","type":"text","text":"Sản Phẩm Nhập Khẩu","x":1160,"y":-720,"width":250,"height":50},
 		{"id":"6ad3ce69ed6ea094","type":"text","text":"Products (Thành)","x":760,"y":-775,"width":240,"height":55},
-		{"id":"1b7e67253890bb2a","type":"text","text":"Body (Thuận)","x":880,"y":-320,"width":174,"height":50},
-		{"id":"6833f271863baa00","type":"text","text":"Footer ","x":880,"y":-235,"width":174,"height":50},
 		{"id":"2e26d46ea2a67576","type":"text","text":"Design\n","x":776,"y":-1120,"width":130,"height":50},
 		{"id":"f4118d612838a4e6","type":"text","text":"[ClickUp](https://app.clickup.com/9005176430/v/l/s/90050444663)\nProject Scheduling\n[Project Design on WhiteBoard](https://youtu.be/Aj7_5QahO58?si=dfrTcJ4NzFwiSUt1)\n","x":-643,"y":-1780,"width":235,"height":118},
 		{"id":"712b400ec1ecedeb","type":"text","text":"Project Management Technology","x":-1035,"y":-1780,"width":345,"height":50},
@@ -17,15 +16,20 @@
 		{"id":"e1f9ac1b54c57edd","type":"text","text":"Register ","x":-38,"y":-720,"width":156,"height":50},
 		{"id":"34d7096dc47b0b6a","type":"text","text":"Navbar","x":-297,"y":-324,"width":250,"height":60},
 		{"id":"860b0da2ae4c84ce","type":"text","text":"Drop Down Navbar","x":-720,"y":-355,"width":250,"height":60},
-		{"id":"bd0946be9dbfb47d","type":"text","text":"Register","x":-720,"y":-40,"width":250,"height":60},
-		{"id":"ea46213566eb1fa1","type":"text","text":"Login ","x":-720,"y":-194,"width":250,"height":60},
 		{"id":"96211baba3fe0e4c","type":"text","text":"Menu - Drop Down Nav Bar","x":-1100,"y":-470,"width":290,"height":65},
 		{"id":"8c018734587e7606","type":"text","text":" About ","x":-1100,"y":-375,"width":290,"height":50},
 		{"id":"25d0b580cb9bfe64","type":"text","text":"Sản Phẩm Nội Địa","x":-1516,"y":-468,"width":250,"height":50},
 		{"id":"b24db40549a7b0aa","type":"text","text":"Sản Phẩm Nhập Khẩu","x":-1516,"y":-375,"width":250,"height":50},
 		{"id":"852ad7f2fb79a62e","type":"text","text":"Shared Design","x":559,"y":-1410,"width":201,"height":50},
 		{"id":"5e3a6b845b44d0d0","type":"file","file":"Pasted image 20231115161110.png","x":-1813,"y":-274,"width":1003,"height":294},
-		{"id":"d92a729d98e80484","type":"file","file":"Landing Page vs Website.md","x":986,"y":-1940,"width":639,"height":480}
+		{"id":"d92a729d98e80484","type":"file","file":"Landing Page vs Website.md","x":986,"y":-1940,"width":639,"height":480},
+		{"id":"d09a5a2612f5611f","type":"text","text":"Your Cart","x":-1160,"y":80,"width":350,"height":60},
+		{"id":"2f1d93786fbf363c","type":"file","file":"Pasted image 20231115194108.png","x":-1160,"y":180,"width":350,"height":400},
+		{"id":"ea46213566eb1fa1","type":"text","text":"Login ","x":-1060,"y":680,"width":250,"height":60},
+		{"id":"bd0946be9dbfb47d","type":"text","text":"Register","x":-1060,"y":780,"width":250,"height":60},
+		{"id":"1b7e67253890bb2a","type":"text","text":"Body (Thuận)","x":826,"y":-314,"width":174,"height":50},
+		{"id":"6833f271863baa00","type":"text","text":"Footer ","x":826,"y":330,"width":174,"height":50},
+		{"id":"43ea4431cccde506","type":"file","file":"Pasted image 20231115194243.png","x":-1240,"y":80,"width":62,"height":60}
 	],
 	"edges":[
 		{"id":"336dfc89aafc1d5f","fromNode":"96211baba3fe0e4c","fromSide":"left","toNode":"25d0b580cb9bfe64","toSide":"right"},
@@ -49,6 +53,7 @@
 		{"id":"919ef646657b5ff2","fromNode":"860b0da2ae4c84ce","fromSide":"left","toNode":"96211baba3fe0e4c","toSide":"right"},
 		{"id":"df93bf5fc2821876","fromNode":"860b0da2ae4c84ce","fromSide":"left","toNode":"8c018734587e7606","toSide":"right"},
 		{"id":"bbb90eaa394f2f82","fromNode":"2e26d46ea2a67576","fromSide":"top","toNode":"852ad7f2fb79a62e","toSide":"bottom"},
-		{"id":"2e41f4b50a941952","fromNode":"2e26d46ea2a67576","fromSide":"top","toNode":"d92a729d98e80484","toSide":"bottom"}
+		{"id":"2e41f4b50a941952","fromNode":"2e26d46ea2a67576","fromSide":"top","toNode":"d92a729d98e80484","toSide":"bottom"},
+		{"id":"57138d69b91d1e18","fromNode":"34d7096dc47b0b6a","fromSide":"left","toNode":"d09a5a2612f5611f","toSide":"right"}
 	]
 }
