@@ -1,13 +1,10 @@
 {
 	"nodes":[
-		{"id":"93065b12cfbda976","x":80,"y":-969,"width":400,"height":400,"type":"link","url":"https://aroma-coffee-business-template.webflow.io/store"},
 		{"id":"708778fe9df6a084","type":"text","text":"Fresh Food Website","x":300,"y":-880,"width":240,"height":50},
 		{"id":"239e44df73b8d3ec","type":"text","text":"Sản Phẩm Nội Địa","x":1160,"y":-830,"width":250,"height":50},
 		{"id":"180f243fbb79159d","type":"text","text":"Sản Phẩm Nhập Khẩu","x":1160,"y":-720,"width":250,"height":50},
 		{"id":"6ad3ce69ed6ea094","type":"text","text":"Products (Thành)","x":760,"y":-775,"width":240,"height":55},
 		{"id":"2e26d46ea2a67576","type":"text","text":"Design\n","x":776,"y":-1120,"width":130,"height":50},
-		{"id":"f4118d612838a4e6","type":"text","text":"[ClickUp](https://app.clickup.com/9005176430/v/l/s/90050444663)\nProject Scheduling\n[Project Design on WhiteBoard](https://youtu.be/Aj7_5QahO58?si=dfrTcJ4NzFwiSUt1)\n","x":-643,"y":-1780,"width":235,"height":118},
-		{"id":"712b400ec1ecedeb","type":"text","text":"Project Management Technology","x":-1035,"y":-1780,"width":345,"height":50},
 		{"id":"e5744317ffd90956","type":"text","text":"   Main Page","x":340,"y":-320,"width":160,"height":50},
 		{"id":"ab66196f3076ed6b","type":"text","text":"Header","x":23,"y":-325,"width":190,"height":60},
 		{"id":"95155e7c99851f0e","type":"text","text":"Tông màu\n+ 60% Trắng Kem #F2FFE9\n+ 30% Xanh Đậm #3A4D39\n+ 10% Vàng #FFE17B\n","x":1285,"y":-1360,"width":340,"height":180},
@@ -29,7 +26,9 @@
 		{"id":"bd0946be9dbfb47d","type":"text","text":"Register","x":-1060,"y":780,"width":250,"height":60},
 		{"id":"1b7e67253890bb2a","type":"text","text":"Body (Thuận)","x":826,"y":-314,"width":174,"height":50},
 		{"id":"6833f271863baa00","type":"text","text":"Footer ","x":826,"y":330,"width":174,"height":50},
-		{"id":"43ea4431cccde506","type":"file","file":"Pasted image 20231115194243.png","x":-1240,"y":80,"width":62,"height":60}
+		{"id":"43ea4431cccde506","type":"file","file":"Pasted image 20231115194243.png","x":-1240,"y":80,"width":62,"height":60},
+		{"id":"712b400ec1ecedeb","type":"text","text":"Project Management Technology","x":-767,"y":-1780,"width":345,"height":50},
+		{"id":"f4118d612838a4e6","type":"text","text":"[ClickUp](https://app.clickup.com/9005176430/v/l/s/90050444663)\nProject Scheduling\n[Project Design on WhiteBoard](https://youtu.be/Aj7_5QahO58?si=dfrTcJ4NzFwiSUt1)\n","x":-375,"y":-1780,"width":235,"height":118}
 	],
 	"edges":[
 		{"id":"336dfc89aafc1d5f","fromNode":"96211baba3fe0e4c","fromSide":"left","toNode":"25d0b580cb9bfe64","toSide":"right"},
