@@ -28,7 +28,8 @@
 		{"id":"6833f271863baa00","type":"text","text":"Footer ","x":826,"y":330,"width":174,"height":50},
 		{"id":"43ea4431cccde506","type":"file","file":"Pasted image 20231115194243.png","x":-1240,"y":80,"width":62,"height":60},
 		{"id":"712b400ec1ecedeb","type":"text","text":"Project Management Technology","x":-767,"y":-1780,"width":345,"height":50},
-		{"id":"f4118d612838a4e6","type":"text","text":"[ClickUp](https://app.clickup.com/9005176430/v/l/s/90050444663)\nProject Scheduling\n[Project Design on WhiteBoard](https://youtu.be/Aj7_5QahO58?si=dfrTcJ4NzFwiSUt1)\n","x":-375,"y":-1780,"width":235,"height":118}
+		{"id":"f4118d612838a4e6","type":"text","text":"[ClickUp](https://app.clickup.com/9005176430/v/l/s/90050444663)\nProject Scheduling\n[Project Design on WhiteBoard](https://youtu.be/Aj7_5QahO58?si=dfrTcJ4NzFwiSUt1)\n","x":-375,"y":-1780,"width":235,"height":118},
+		{"id":"2bfec3d75efbbb48","x":1084,"y":-965,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"336dfc89aafc1d5f","fromNode":"96211baba3fe0e4c","fromSide":"left","toNode":"25d0b580cb9bfe64","toSide":"right"},
